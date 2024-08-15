@@ -23,4 +23,4 @@ I'm a passionate Software Engineer with experience in React.js, React Native, an
 ### Fun Fact
 - ⚡ I’m always up for a challenge and love learning new technologies to enhance my skills.
 
-![Profile Views](https://komarev.com/ghpvc/?username=saaiifullah&color=blue)
+
