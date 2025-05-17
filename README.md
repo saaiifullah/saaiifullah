@@ -1,6 +1,5 @@
 ## Hi, I am Saif Ullah  
-I'm a passionate Software Engineer with experience in React.js, React Native, and Next.js. I specialize in building responsive web and mobile applications. I'm eager to learn, grow, and contribute to any team.
-
+Frontend developer in Bircube  with expertise in React.js, React Native, Next.js, Firebase, MongoDB, and Supabase, specializing in building scalable web and mobile applications across diverse industries. Proven track record of delivering end-to-end solutions, including role-based access systems, real-time data synchronization, and secure payment integrations (Stripe). Adept at translating complex requirements into intuitive platforms for government, construction, events, and energy sectors. Passionate about leveraging Agile methodologies to create user-centric, high-performance applications.
 ### What I’m Currently Working On
 - 🔭 Building and improving responsive web and mobile applications.
 - 🌱 Continuously learning and growing in the field of software engineering.
