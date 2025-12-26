@@ -48,6 +48,3 @@ Here are some of my most impactful projects built professionally:
 
 ---
 
-### ⚡ Fun Fact  
-I love solving complex problems and turning ideas into smooth, real-world applications. Always learning, always building!
-
