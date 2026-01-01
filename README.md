@@ -14,6 +14,7 @@ I specialize in developing end-to-end platforms with real-time data, secure auth
 ---
 
 ### 📬 How to Reach Me
+
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/saif-ullah-a6481b243/)
 - [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:saifullah8402@gmail.com)
 
