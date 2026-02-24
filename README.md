@@ -1,5 +1,5 @@
 ## Hi, I am Saif Ullah  
-FullStack Developer at Bircube Technologies with hands-on experience in building fast, scalable, and user-focused web & mobile applications. Skilled in React.js, Next.js, React Native, Tailwind CSS, ShadCN UI, Firebase, Supabase, MongoDB, and RESTful APIs.
+Full Stack Developer at Bircube Technologies with hands-on experience in building fast, scalable, and user-focused web & mobile applications. Skilled in React.js, Next.js, React Native, Tailwind CSS, ShadCN UI, Firebase, Supabase, MongoDB, and RESTful APIs.
 
 I specialize in developing end-to-end platforms with real-time data, secure authentication, Stripe payments, and role-based access systems. I enjoy translating complex business requirements into smooth, intuitive user experiences while following Agile workflows and clean development practices.
 
